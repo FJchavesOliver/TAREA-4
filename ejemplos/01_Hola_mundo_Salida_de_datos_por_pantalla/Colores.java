@@ -1,6 +1,6 @@
 /**
  * Coloreado de texto
- *
+ *hols modjgl
  * Muestra varias palabras en el color que corresponde.
  *
  * @author Luis José Sánchez

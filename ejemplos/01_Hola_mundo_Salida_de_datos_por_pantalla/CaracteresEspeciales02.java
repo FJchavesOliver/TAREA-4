@@ -1,6 +1,6 @@
 /**
  * Muestra caracteres especiales
- *
+ *Viba el betis
  * @author Luis J. Sánchez
  */
 public class CaracteresEspeciales02 {

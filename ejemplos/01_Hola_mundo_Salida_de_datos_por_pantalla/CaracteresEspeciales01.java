@@ -1,6 +1,6 @@
 /**
  * Muestra caracteres especiales
- *
+ * vIva el cadiz 
  * @author Luis J. Sánchez
  */
 public class CaracteresEspeciales01 {
