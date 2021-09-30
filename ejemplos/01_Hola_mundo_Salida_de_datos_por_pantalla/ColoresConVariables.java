@@ -1,6 +1,6 @@
 /**
  * Coloreado de texto
- * viva el betis 
+ * viva el betis bueno
  * Muestra varias palabras en el color que corresponde.
  *
  * @author Luis José Sánchez
